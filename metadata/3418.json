@@ -1,0 +1,30 @@
+{
+  "name": "Wild Horses #3418",
+  "description": "Wild Horses is a collection of NFTs - unique digital collectibles, running in the desert of the Ethereum Blockchain. 4096 horses programmatically generated, each with unique characteristics and different traits.",
+  "image": "ipfs://QmWrQ7U2Hif73mu2xsr9bDWHn9eYBwMfqpQCfbRMZoyrNe/3418.png",
+  "dna": "542d0a4ccd53331b8eeef035eb82db5500ac0d16",
+  "edition": 3418,
+  "date": 1635361110247,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Eyes Accessory",
+      "value": "Gray Eyebrow Looking Down"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gray"
+    }
+  ]
+}
