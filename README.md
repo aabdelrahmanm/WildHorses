@@ -12,6 +12,14 @@
 </p>
 <br/>
 
+## Description
+Wild Horses is a collection of NFTs - unique digital collectibles, running in the desert of the Ethereum Blockchain. 4096 horses programmatically generated, each with unique characteristics and different traits. 
+
+### Mint
+You can mint your own horse now: https://wildhorsesnfts.com
+
+## Donation
+20% of all sales will be donated to autism centers.
 
 ### Image 1000x1000
 "`/images/1.png`"
