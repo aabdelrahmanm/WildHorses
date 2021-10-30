@@ -75,6 +75,291 @@ You can mint your own horse now: https://wildhorsesnfts.com
 
 <br/>
 
+## Rarity
+
+### Trait type: Background
+```json
+[
+   {
+      "trait":"Blue",
+      "chance":"10",
+      "occurrence":"9% out of 100%"
+   },
+   {
+      "trait":"Brown",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Cyan",
+      "chance":"10",
+      "occurrence":"11% out of 100%"
+   },
+   {
+      "trait":"Orange",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Peach",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Pink",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Purple",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Red",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Salmon",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Yellow",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   }
+]
+```
+
+### Trait type: Base
+```json
+[
+   {
+      "trait":"Alien",
+      "chance":"20",
+      "occurrence":"19% out of 100%"
+   },
+   {
+      "trait":"Brown Head White Body ",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Gold",
+      "chance":"15",
+      "occurrence":"15% out of 100%"
+   },
+   {
+      "trait":"Normal",
+      "chance":"20",
+      "occurrence":"20% out of 100%"
+   },
+   {
+      "trait":"Purple",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"White",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Zombie",
+      "chance":"15",
+      "occurrence":"15% out of 100%"
+   }
+]
+```
+
+### Trait type: Eyes Accessory
+```json
+[
+   {
+      "trait":"Black Eyeshadow",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Blue Black Eyeball",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Blue White Eyeball",
+      "chance":"10",
+      "occurrence":"9% out of 100%"
+   },
+   {
+      "trait":"Close Eyes",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Gray Eyebrow Looking Down",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Gray Eyebrow Looking Up",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Gray Shadow",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Green",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Red",
+      "chance":"10",
+      "occurrence":"11% out of 100%"
+   },
+   {
+      "trait":"Simple Blue",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   }
+]
+```
+
+### Trait type: Hair
+```json
+[
+   {
+      "trait":"Black",
+      "chance":"20",
+      "occurrence":"20% out of 100%"
+   },
+   {
+      "trait":"Brown",
+      "chance":"30",
+      "occurrence":"30% out of 100%"
+   },
+   {
+      "trait":"Gray",
+      "chance":"20",
+      "occurrence":"20% out of 100%"
+   },
+   {
+      "trait":"Pink",
+      "chance":"15",
+      "occurrence":"15% out of 100%"
+   },
+   {
+      "trait":"Yellow",
+      "chance":"15",
+      "occurrence":"15% out of 100%"
+   }
+]
+```
+
+### Trait type: Mouth
+```json
+[
+   {
+      "trait":"Gray",
+      "chance":"30",
+      "occurrence":"29% out of 100%"
+   },
+   {
+      "trait":"Green Teeth",
+      "chance":"20",
+      "occurrence":"20% out of 100%"
+   },
+   {
+      "trait":"Pink Teeth",
+      "chance":"20",
+      "occurrence":"21% out of 100%"
+   },
+   {
+      "trait":"Red",
+      "chance":"30",
+      "occurrence":"31% out of 100%"
+   }
+]
+```
+
+### Trait type: Headgear
+```json
+[
+   {
+      "trait":"American Hat",
+      "chance":"5",
+      "occurrence":"5% out of 100%"
+   },
+   {
+      "trait":"Beanie",
+      "chance":"5",
+      "occurrence":"5% out of 100%"
+   },
+   {
+      "trait":"Beaver Hat",
+      "chance":"5",
+      "occurrence":"5% out of 100%"
+   },
+   {
+      "trait":"Bowler Hat",
+      "chance":"5",
+      "occurrence":"5% out of 100%"
+   },
+   {
+      "trait":"Bucket Hat",
+      "chance":"5",
+      "occurrence":"5% out of 100%"
+   },
+   {
+      "trait":"Cowboy Hat",
+      "chance":"5",
+      "occurrence":"5% out of 100%"
+   },
+   {
+      "trait":"Irish Cap",
+      "chance":"5",
+      "occurrence":"5% out of 100%"
+   },
+   {
+      "trait":"Pirates Hat",
+      "chance":"5",
+      "occurrence":"5% out of 100%"
+   },
+   {
+      "trait":"Sheriff Hat",
+      "chance":"5",
+      "occurrence":"5% out of 100%"
+   }
+]
+```
+
+### Trait type: Mouth Accessory
+```json
+[
+   {
+      "trait":"Cigarette",
+      "chance":"10",
+      "occurrence":"10% out of 100%"
+   },
+   {
+      "trait":"Pipe",
+      "chance":"5",
+      "occurrence":"5% out of 100%"
+   },
+   {
+      "trait":"Vape",
+      "chance":"10",
+      "occurrence":"11% out of 100%"
+   }
+]
+```
+
+
 ### MIT License
 
 Copyright (c) 2021 aabdelrahmanm
